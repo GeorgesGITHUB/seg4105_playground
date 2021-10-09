@@ -15,6 +15,6 @@ An interative element (like a button) which clearly indicates to the user that t
 
 ## Analysis of project feature
 ### Demand
-The project does not allow for a fast analysis of the data collected. Every feature, such as, the data filter and all the different maps/plots displaying the data are seperated by a navigation bar. This discourages the user from using the features by constantly reloading the webpage as the user switches from one map/plot to the other while manipulating the data filters
+The project does not allow for a fast analysis of the data collected. Every feature, such as, the data filter and all the different maps/plots displaying the data are seperated by a navigation bar. This discourages the user from using the features by necessitating the constant reloading of the webpage as the user switches from one map/plot/filter to another.
 ### Supply
 Removing the navigation and instead having a user interface such that these features are widgets which modify the single page app seemlessly. This improves usability by allowing users to rapidly change which map/plot is being displayed while adjusting the filters.
